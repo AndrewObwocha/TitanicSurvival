@@ -6,7 +6,7 @@ This script performs exploratory data analysis and builds a prediction model
 for the Titanic dataset. It includes data cleaning, feature engineering,
 and a logistic regression model to predict passenger survival.
 
-Author: [Your Name]
+Author: Andrew Obwocha
 Date: January 15, 2025
 """
 
