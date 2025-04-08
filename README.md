@@ -36,7 +36,7 @@ The model uses the Titanic dataset with features including:
 
 ## Requirements
 
-- Python 3.x
+- Python 3.0
 - pandas
 - scikit-learn
 - matplotlib
